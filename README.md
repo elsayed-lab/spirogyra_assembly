@@ -11,4 +11,4 @@ PRJNA335946  (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA335946).
 A prior transcriptome shotgun assembly for the same reads can be found at
 https://www.ncbi.nlm.nih.gov/nuccore/1248843909 (TSA accession GFWN00000000.1).
 
-https://doi.org/10.5281/zenodo.1008771
+https://doi.org/10.5281/zenodo.1009132
