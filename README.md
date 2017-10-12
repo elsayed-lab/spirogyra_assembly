@@ -1,6 +1,6 @@
 # Trinity denovo S.pirogyra assembly
 
-Kohn Clay, Trey Belew, Najib El-Sayed, Caren Chang.
+John Clay, Trey Belew, Najib El-Sayed, Charles Delwiche, Caren Chang.
 
 This assembly is based on the RNA-seq data described in Van de Poel et
 al. “Transcriptome profiling of the green alga Spirogyra pratensis (Charophyta)
