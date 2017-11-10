@@ -1,4 +1,4 @@
-# Trinity denovo S.pirogyra assembly
+# Trinity denovo Spirogyra pratensis assembly
 
 John Clay, Trey Belew, Najib El-Sayed, Charles Delwiche, Caren Chang.
 
